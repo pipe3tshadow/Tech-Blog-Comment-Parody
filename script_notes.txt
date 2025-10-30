@@ -1,0 +1,2 @@
+# Daily Notes
+Ensure responsive layout works correctly on large desktops
